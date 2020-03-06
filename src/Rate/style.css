@@ -1,0 +1,37 @@
+* {
+	box-sizing: border-box;
+}
+.container {
+	width: 600px;
+	border-radius: 10px;
+	padding: 56px 20px 20px 20px;
+	background-color: #272A2F;
+}
+.block {
+	width: 24%;
+	border-radius: 6px;
+	padding: 12px;
+	background: #2A2D32;
+}
+
+.currency-in{
+	font-size: 24px;
+	color: #fff;
+	text-align: center;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	padding-top: 30px;
+}
+
+
+.currency-name {
+	font-size: 36px;
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	padding-bottom: 30px;
+}
